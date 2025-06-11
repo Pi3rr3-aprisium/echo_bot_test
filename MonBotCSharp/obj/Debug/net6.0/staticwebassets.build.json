@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "WaHyicWMNl6c4ssDPt7wVH/aTdisQYbWZYjA+lzx8H0=",
+  "Source": "MonBotCSharp",
+  "BasePath": "_content/MonBotCSharp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MonBotCSharp\\wwwroot",
+      "Source": "MonBotCSharp",
+      "ContentRoot": "C:\\Users\\Qalf\\MonBotCSharp\\wwwroot\\",
+      "BasePath": "_content/MonBotCSharp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Qalf\\MonBotCSharp\\wwwroot\\default.html",
+      "SourceId": "MonBotCSharp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Qalf\\MonBotCSharp\\wwwroot\\",
+      "BasePath": "_content/MonBotCSharp",
+      "RelativePath": "default.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\default.html"
+    }
+  ]
+}
